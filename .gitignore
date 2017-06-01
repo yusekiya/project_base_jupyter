@@ -1,0 +1,4 @@
+db.env
+jupyter.env
+db/*
+!db/.gitignore
